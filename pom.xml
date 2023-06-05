@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.cheese</groupId>
+    <artifactId>design-pattern</artifactId>
+    <version>1.0.0</version>
+    <modules>
+        <module>01_simple-factory</module>
+        <module>02_strategy-pattern</module>
+        <module>03_decoration-pattern</module>
+        <module>04_proxy-pattern</module>
+        <module>05_factory-method-pattern</module>
+        <module>06_prototype-pattern</module>
+        <module>07_template-method-pattern</module>
+        <module>08_Facade-pattern</module>
+        <module>09_builder-pattern</module>
+        <module>10_observer-pattern</module>
+        <module>11_abstract-factory-pattern</module>
+        <module>12_state-pattern</module>
+        <module>13_adapter-pattern</module>
+        <module>14_memento-pattern</module>
+        <module>15_composite-pattern</module>
+        <module>16_iterator-pattern</module>
+        <module>17_singleton-pattern</module>
+        <module>18_bridge-pattern</module>
+        <module>19_command-pattern</module>
+        <module>20_chain-of-responsibility-pattern</module>
+        <module>21_mediator-pattern</module>
+        <module>22_flyweight-pattern</module>
+        <module>23_interpreter-pattern</module>
+        <module>24_visitor-pattern</module>
+    </modules>
+
+    <packaging>pom</packaging>
+
+
+
+</project>
